@@ -12,70 +12,49 @@ I'm a second-year **B.Tech Computer Science** student at **VNR VJIET**, currentl
 
 I enjoy turning things I find interesting — or problems I personally encounter — into projects.
 
----
 
-## 🔭 Currently Working On
+<h2 align="center">🛠️ TECH STACK</h2>
 
-* 🧩 DSA and Problem-solving skills
-* 💻 C++ and Java
-* 🌐 Backend development
-* 🔧 Building practical software projects
-
----
-
-## 🚀 Featured Projects
-
-### [AutoMeet](https://github.com/iabhijithks/AutoMeet)
-
-A local desktop automation tool designed to automate my recurring online class workflow.
-
-**Electron · Node.js · JavaScript · OBS WebSocket**
-
-> More projects and experiments coming soon.
-
----
-
-## 🛠️ Technologies
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,nodejs,express,mongodb,git,github,vscode,electron" />
 </p>
 
-### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<h2 align="center">🔭 Currently Learning/Working On</h2>
+<p align="center">
+ 🧩 DSA and Problem-solving skills
+· 💻 C++ and Java (OOP)
+· 🌐 Full-stack Web Development
+· 🔧 Software Development Practices
 </p>
 
-### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,electron" />
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <h3><a href="https://github.com/iabhijithks/AutoMeet">AutoMeet</a></h3>
+  <p>A local desktop automation tool designed to automate my recurring online class workflow.</p>
+  <p><strong>Electron · Node.js · JavaScript · OBS WebSocket</strong></p>
+  <br />
+  <p><em>More projects and experiments coming soon.</em></p>
+</div>
+
+
+<h2 align="center">🌱 BEYOND CODE</h2>
+
+<p align="center">
+  📷 Photography &nbsp; · &nbsp;
+  🎬 Filmmaking &nbsp; · &nbsp;
+  ✈️ Aviation &nbsp; · &nbsp;
+  🎵 Music &nbsp; · &nbsp;
+  🧪 Experimenting with Technology
 </p>
 
----
 
-## 📚 Currently Learning
+<h2 align="center">🌐 CONNECT</h2>
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Databases
-* Computer Networks
-* Software Development Practices
-
----
-
-## 🌱 Beyond Code
-
-When I'm not coding, I enjoy **photography, filmmaking, aviation, music, and experimenting with technology**.
-
----
-
-## 🌐 Connect With Me
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/iabhijithks/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -84,7 +63,6 @@ When I'm not coding, I enjoy **photography, filmmaking, aviation, music, and exp
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Still learning. Still building. Still figuring things out.</i> 🚀
